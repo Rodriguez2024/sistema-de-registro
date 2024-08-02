@@ -6,3 +6,5 @@ Para ejecutar el sistema, debes poner:
 ``` npm install react ```
 
 alt + 96 ` 
+
+Sistema de registro 2
